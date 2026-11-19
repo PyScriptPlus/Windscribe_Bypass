@@ -1,4 +1,4 @@
-echo "Made by MamaD\n"
+echo "Made by MamaD"
 
 reg delete "HKCU\Software\Microsoft\Windows\CurrentVersion\NetControlPort" /f
 
